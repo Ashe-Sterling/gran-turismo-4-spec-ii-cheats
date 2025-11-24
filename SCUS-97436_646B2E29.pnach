@@ -41,5 +41,5 @@ patch=1,EE,20215E64,extended,00000000
 
 [All Parts Temporarily Unlocked]
 author=ashesaysgex
-description=This makes the game think you have purchased every part for the current car where you can change out parts, as an added bonus it also allows you to drive any vehicle on the dirt & snow courses.
+description=Ported from original patch by 47iscool. This makes the game think you have purchased every part for the current car where you can change out parts, as an added bonus it also allows you to drive any vehicle on the dirt & snow courses.
 patch=1,EE,202FEBE8,extended,20420001
