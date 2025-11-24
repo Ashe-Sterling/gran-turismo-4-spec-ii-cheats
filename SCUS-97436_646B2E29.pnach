@@ -1,0 +1,45 @@
+[Always Enable Rearview Mirror]
+author=ashesaysgex
+description=Forces rearview mirror visibility for all camera modes
+patch=1,EE,2023F5B0,extended,10000003
+
+[Garage Slot Car 1 Always Has Super Soft (R5) Tires Equipped]
+author=ashesaysgex
+description=Ported from original patch by 47iscool. (GT Mode) Sets current car's tire compound to RSS/R5.
+patch=1,EE,209C81E8,extended,0000B2A3
+patch=1,EE,209C81F0,extended,0000B29D
+
+[Infinite Fuel]
+author=ashesaysgex
+description=Ported from original patch by Code Master.
+patch=1,EE,20217840,extended,00000000
+patch=1,EE,20217844,extended,00000000
+
+[Infinite Nitrous]
+author=ashesaysgex
+description=Ported from original patch by MadCatz.
+patch=1,EE,202177B0,extended,3E01461E
+patch=1,EE,202177B4,extended,34214000
+patch=1,EE,202177C4,extended,E46204E0
+
+[Allow all cars to be modified in GT Auto]
+author=ashesaysgex
+description=Ported from original patch by 47iscool
+patch=1,EE,2012EA80,extended,00000000
+patch=1,EE,2012ECC8,extended,00000000
+patch=1,EE,2012EDE8,extended,00000000
+
+[Disable Rev Limiter]
+author=ashesaysgex
+description=Ported from original patch by 47iscool. Your car will no longer back down at its original top speed. Enjoy!
+patch=1,EE,20217FCC,extended,1000000A
+
+[Tires Never Wear Out]
+author=ashesaysgex
+description=Ported from original patch by Code Master.
+patch=1,EE,20215E64,extended,00000000
+
+[All Parts Temporarily Unlocked]
+author=ashesaysgex
+description=This makes the game think you have purchased every part for the current car where you can change out parts, as an added bonus it also allows you to drive any vehicle on the dirt & snow courses.
+patch=1,EE,202FEBE8,extended,20420001
