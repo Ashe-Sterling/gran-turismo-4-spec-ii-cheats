@@ -1,6 +1,6 @@
 [Always Enable Rearview Mirror]
 author=ashesaysgex
-description=Forces rearview mirror visibility for all camera modes
+description=Forces rearview mirror visibility for all camera modes.
 patch=1,EE,2023F5B0,extended,10000003
 
 [Garage Slot Car 1 Always Has Super Soft (R5) Tires Equipped]
@@ -24,7 +24,7 @@ patch=1,EE,202177C4,extended,E46204E0
 
 [Allow all cars to be modified in GT Auto]
 author=ashesaysgex
-description=Ported from original patch by 47iscool
+description=Ported from original patch by 47iscool.
 patch=1,EE,2012EA80,extended,00000000
 patch=1,EE,2012ECC8,extended,00000000
 patch=1,EE,2012EDE8,extended,00000000
@@ -34,12 +34,25 @@ author=ashesaysgex
 description=Ported from original patch by 47iscool. Your car will no longer back down at its original top speed. Enjoy!
 patch=1,EE,20217FCC,extended,1000000A
 
-[Tires Never Wear Out]
+[All Parts Temporarily Unlocked]
+author=ashesaysgex
+description=This makes the game think you have purchased every part for the current car where you can change out parts, as an added bonus it also allows you to drive any vehicle on the dirt & snow courses.
+patch=1,EE,202FEBE8,extended,20420001
+
+[No Tire Wear (Your Car)]
+author=ashesaysgex
+description=Disables tire wear for your car.
+patch=1,EE,200C20E0,extended,3E010000
+patch=1,EE,200C20E4,extended,34210000
+patch=1,EE,200C20E8,extended,AE810213
+patch=1,EE,200C20EC,extended,AE810307
+patch=1,EE,200C20F0,extended,AE8103FB
+patch=1,EE,200C20F4,extended,AE8104EF
+patch=1,EE,200C20F8,extended,03E00008
+patch=1,EE,200C20FC,extended,8E650014
+patch=1,EE,201C42C0,extended,0C030838
+
+[Tires Never Wear Out (All Cars)]
 author=ashesaysgex
 description=Ported from original patch by Code Master.
 patch=1,EE,20215E64,extended,00000000
-
-[All Parts Temporarily Unlocked]
-author=ashesaysgex
-description=Ported from original patch by 47iscool. This makes the game think you have purchased every part for the current car where you can change out parts, as an added bonus it also allows you to drive any vehicle on the dirt & snow courses.
-patch=1,EE,202FEBE8,extended,20420001
