@@ -74,22 +74,22 @@ patch=1,EE,201483D0,extended,24100000
 patch=1,EE,20317174,extended,0002282D
 patch=1,EE,203085F4,extended,24020000
 
-[Car Oil Condition Doesn't Decrease]
+[Perfect Car Oil Condition]
 author=ashesaysgex
 description=
 patch=1,EE,209C8670,extended,00000000
 
-[Car Body Condition Doesn't Decrease]
+[Perfect Car Body Condition]
+author=ashesaysgex
+description=
+patch=1,EE,209C8678,extended,00000000
+
+[Perfect Car Engine Condition]
 author=ashesaysgex
 description=
 patch=1,EE,209C866C,extended,00000000
 
-[Car Engine Condition Doesn't Decrease]
-author=ashesaysgex
-description=
-patch=1,EE,209C8670,extended,00000000
-
-[Car Cleanliness Doesn't Decrease]
+[Perfect Car Cleanliness]
 author=ashesaysgex
 description=
 patch=1,EE,209C8674,extended,00000000
