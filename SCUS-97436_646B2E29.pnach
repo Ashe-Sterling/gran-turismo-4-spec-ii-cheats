@@ -56,3 +56,45 @@ patch=1,EE,201C42C0,extended,0C030838
 author=ashesaysgex
 description=Ported from original patch by Code Master.
 patch=1,EE,20215E64,extended,00000000
+
+[Ultra Slow Timer]
+author=ashesaysgex
+description=
+patch=1,EE,2021AD04,extended,24420001
+
+[Ultra Fast Timer]
+author=ashesaysgex
+description=May be useful for timed endurance events.
+patch=1,EE,2021AD04,extended,24420FFF
+
+[Oil Condition Never Decreases]
+author=ashesaysgex
+description=Your oil condition will never decrease (recommend changing oil in GT Auto once after enabling this code for always perfect condition oil).
+patch=1,EE,209C8310,extended,00000000
+
+[All Cars Are Free + Can Purchase Any Car]
+author=ashesaysgex
+description=
+patch=1,EE,201483D0,extended,24100000
+patch=1,EE,20317174,extended,0002282D
+patch=1,EE,203085F4,extended,24020000
+
+[Car Oil Condition Doesn't Decrease]
+author=ashesaysgex
+description=
+patch=1,EE,209C8670,extended,00000000
+
+[Car Body Condition Doesn't Decrease]
+author=ashesaysgex
+description=
+patch=1,EE,209C866C,extended,00000000
+
+[Car Engine Condition Doesn't Decrease]
+author=ashesaysgex
+description=
+patch=1,EE,209C8670,extended,00000000
+
+[Car Cleanliness Doesn't Decrease]
+author=ashesaysgex
+description=
+patch=1,EE,209C8674,extended,00000000
