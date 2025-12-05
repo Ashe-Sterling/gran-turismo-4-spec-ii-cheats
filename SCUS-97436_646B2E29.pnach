@@ -67,11 +67,6 @@ author=ashesaysgex
 description=May be useful for timed endurance events.
 patch=1,EE,2021AD04,extended,24420FFF
 
-[Oil Condition Never Decreases]
-author=ashesaysgex
-description=Your oil condition will never decrease (recommend changing oil in GT Auto once after enabling this code for always perfect condition oil).
-patch=1,EE,209C8310,extended,00000000
-
 [All Cars Are Free + Can Purchase Any Car]
 author=ashesaysgex
 description=
