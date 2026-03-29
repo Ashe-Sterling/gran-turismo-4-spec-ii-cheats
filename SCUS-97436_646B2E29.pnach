@@ -123,3 +123,34 @@ patch=1,EE,209C90F4,bytes,91F9000091F9000091F9000091F9000091F9000091F9000091F900
 author=ashesaysgex
 description=Does not grant the reward cars. Sorry :/
 patch=1,EE,209C9134,bytes,91F9000091F9000091F9000091F9000091F90000
+
+[AI Difficulty Increase\1st Position Pace Modifier]
+author=ashesaysgex
+patch=1,EE,21E72C5E,extended,00003F8C
+[AI Difficulty Increase\2nd Position Pace Modifier]
+author=ashesaysgex
+patch=1,EE,21E7719E,extended,00003F8C
+[AI Difficulty Increase\3rd Position Pace Modifier]
+author=ashesaysgex
+patch=1,EE,21E7B6DE,extended,00003F8C
+[AI Difficulty Increase\4th Position Pace Modifier]
+author=ashesaysgex
+patch=1,EE,21E7FC1E,extended,00003F8C
+[AI Difficulty Increase\5th Position Pace Modifier]
+author=ashesaysgex
+patch=1,EE,21E8415E,extended,00003F8C
+[AI Difficulty Increase\1st Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BAB2,extended,00003F96
+[AI Difficulty Increase\2nd Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BB92,extended,00003F96
+[AI Difficulty Increase\3rd Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BD52,extended,00003F96
+[AI Difficulty Increase\4th Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BE32,extended,00003F96
+[AI Difficulty Increase\5th Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8C02A,extended,00003F96
