@@ -169,16 +169,6 @@ author=ashesaysgex
 description=Does not grant the reward cars. Sorry :/
 patch=1,EE,209C9134,bytes,91F9000091F9000091F9000091F9000091F90000
 
-[Timer\Ultra Slow Timer]
-author=ashesaysgex
-description=
-patch=1,EE,2021AD04,extended,24420001
-
-[Timer\Ultra Fast Timer]
-author=ashesaysgex
-description=May be useful for timed endurance events.
-patch=1,EE,2021AD04,extended,24420FFF
-
 [Timer\Freeze Timer]
 author=ashesaysgex
 description=Press L3 to stop, R3 to restart. Ported from original patch by codejunkies
@@ -186,3 +176,13 @@ patch=1,EE,D0681344,extended,0000FFFD
 patch=1,EE,2021AD04,extended,2A000032
 patch=1,EE,D0681344,extended,0000FFFB
 patch=1,EE,2021AD04,extended,24420032
+
+[Timer\Ultra Fast Timer]
+author=ashesaysgex
+description=May be useful for timed endurance events.
+patch=1,EE,2021AD04,extended,24420FFF
+
+[Timer\Ultra Slow Timer]
+author=ashesaysgex
+description=
+patch=1,EE,2021AD04,extended,24420001
