@@ -1,46 +1,92 @@
-[Always Enable Rearview Mirror]
+[AI Difficulty Cheats\1st Position Pace Modifier]
 author=ashesaysgex
-description=Forces rearview mirror visibility for all camera modes.
-patch=1,EE,2023F5B0,extended,10000003
-
-[Garage Slot Car 1 Always Has Super Soft (R5) Tires Equipped]
+patch=1,EE,21E72C5E,extended,00003F8C
+[AI Difficulty Cheats\2nd Position Pace Modifier]
 author=ashesaysgex
-description=Ported from original patch by 47iscool. (GT Mode) Sets current car's tire compound to RSS/R5.
-patch=1,EE,209C81E8,extended,0000B2A3
-patch=1,EE,209C81F0,extended,0000B29D
-
-[Infinite Fuel]
+patch=1,EE,21E7719E,extended,00003F8C
+[AI Difficulty Cheats\3rd Position Pace Modifier]
 author=ashesaysgex
-description=Ported from original patch by Code Master.
-patch=1,EE,20217840,extended,00000000
-patch=1,EE,20217844,extended,00000000
-
-[Infinite Nitrous]
+patch=1,EE,21E7B6DE,extended,00003F8C
+[AI Difficulty Cheats\4th Position Pace Modifier]
 author=ashesaysgex
-description=Ported from original patch by MadCatz.
-patch=1,EE,202177B0,extended,3E01461E
-patch=1,EE,202177B4,extended,34214000
-patch=1,EE,202177C4,extended,E46204E0
+patch=1,EE,21E7FC1E,extended,00003F8C
+[AI Difficulty Cheats\5th Position Pace Modifier]
+author=ashesaysgex
+patch=1,EE,21E8415E,extended,00003F8C
+[AI Difficulty Cheats\1st Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BAB2,extended,00003F96
+[AI Difficulty Cheats\2nd Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BB92,extended,00003F96
+[AI Difficulty Cheats\3rd Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BD52,extended,00003F96
+[AI Difficulty Cheats\4th Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8BE32,extended,00003F96
+[AI Difficulty Cheats\5th Position Downforce Modifier]
+author=ashesaysgex
+patch=1,EE,21E8C02A,extended,00003F96
 
-[Allow all cars to be modified in GT Auto]
+[AI Difficulty Cheats\Disable AI (Press Select & Left To Activate, Press Select & Right To Disable)]
+author=ashesaysgex
+description=Ported from original patch by codejunkies
+patch=1,EE,D0681345,extended,0000FF7E
+patch=1,EE,20210A70,extended,24020000
+patch=1,EE,D0681345,extended,0000FFDE
+patch=1,EE,20210A70,extended,1440FFF9
+
+[Car Cheats\All Cars Are Free + Can Purchase Any Car]
+author=ashesaysgex
+description=
+patch=1,EE,201483D0,extended,24100000
+patch=1,EE,20317174,extended,0002282D
+patch=1,EE,203085F4,extended,24020000
+
+[Car Cheats\Allow all cars to be modified in GT Auto]
 author=ashesaysgex
 description=Ported from original patch by 47iscool.
 patch=1,EE,2012EA80,extended,00000000
 patch=1,EE,2012ECC8,extended,00000000
 patch=1,EE,2012EDE8,extended,00000000
 
-[Disable Rev Limiter]
-author=ashesaysgex
-description=Ported from original patch by 47iscool. Your car will no longer back down at its original top speed. Enjoy!
-patch=1,EE,20217FCC,extended,1000000A
-
-[All Parts Temporarily Unlocked]
+[Car Cheats\All Parts Temporarily Unlocked]
 author=ashesaysgex
 description=This makes the game think you have purchased every part for the current car where you can change out parts,
 as an added bonus it also allows you to drive any vehicle on the dirt & snow courses.
 patch=1,EE,202FEBE8,extended,20420001
 
-[No Tire Wear (Your Car)]
+[Car Cheats\Disable Rev Limiter]
+author=ashesaysgex
+description=Ported from original patch by 47iscool. Your car will no longer back down at its original top speed. Enjoy!
+patch=1,EE,20217FCC,extended,1000000A
+
+[Car Cheats\Garage Slot Car 1 Always Has Super Soft (R5) Tires Equipped]
+author=ashesaysgex
+description=Ported from original patch by 47iscool. (GT Mode) Sets current car's tire compound to RSS/R5.
+patch=1,EE,209C81E8,extended,0000B2A3
+patch=1,EE,209C81F0,extended,0000B29D
+
+[Car Cheats\Infinite Fuel]
+author=ashesaysgex
+description=Ported from original patch by Code Master.
+patch=1,EE,20217840,extended,00000000
+patch=1,EE,20217844,extended,00000000
+
+[Car Cheats\Infinite Nitrous]
+author=ashesaysgex
+description=Ported from original patch by MadCatz.
+patch=1,EE,202177B0,extended,3E01461E
+patch=1,EE,202177B4,extended,34214000
+patch=1,EE,202177C4,extended,E46204E0
+
+[Car Cheats\No Tire Wear (All Cars)]
+author=ashesaysgex
+description=Ported from original patch by Code Master.
+patch=1,EE,20215E64,extended,00000000
+
+[Car Cheats\No Tire Wear (Your Car)]
 author=ashesaysgex
 description=Disables tire wear for your car.
 patch=1,EE,200C20E0,extended,3E010000
@@ -53,128 +99,87 @@ patch=1,EE,200C20F8,extended,03E00008
 patch=1,EE,200C20FC,extended,8E650014
 patch=1,EE,201C42C0,extended,0C030838
 
-[Tires Never Wear Out (All Cars)]
-author=ashesaysgex
-description=Ported from original patch by Code Master.
-patch=1,EE,20215E64,extended,00000000
-
-[Ultra Slow Timer]
-author=ashesaysgex
-description=
-patch=1,EE,2021AD04,extended,24420001
-
-[Ultra Fast Timer]
-author=ashesaysgex
-description=May be useful for timed endurance events.
-patch=1,EE,2021AD04,extended,24420FFF
-
-[All Cars Are Free + Can Purchase Any Car]
-author=ashesaysgex
-description=
-patch=1,EE,201483D0,extended,24100000
-patch=1,EE,20317174,extended,0002282D
-patch=1,EE,203085F4,extended,24020000
-
-[Perfect Car Oil Condition]
-author=ashesaysgex
-description=
-patch=1,EE,209C8670,extended,00000000
-
-[Perfect Car Body Condition]
+[Car Cheats\Perfect Car Body Condition]
 author=ashesaysgex
 description=
 patch=1,EE,209C8678,extended,00000000
 
-[Perfect Car Engine Condition]
+[Car Cheats\Perfect Car Engine Condition]
 author=ashesaysgex
 description=
 patch=1,EE,209C866C,extended,00000000
 
-[Perfect Car Cleanliness]
+[Car Cheats\Perfect Car Cleanliness]
 author=ashesaysgex
 description=
 patch=1,EE,209C8674,extended,00000000
 
-[B License - All Gold]
+[Car Cheats\Perfect Car Oil Condition]
+author=ashesaysgex
+description=
+patch=1,EE,209C8670,extended,00000000
+
+[HUD Cheats\Always Enable Rearview Mirror]
+author=ashesaysgex
+description=Forces rearview mirror visibility for all camera modes.
+patch=1,EE,2023F5B0,extended,10000003
+
+[HUD Cheats\Disable Rearview Mirror]
+author=ashesaysgex
+description=Disables the rearview mirror visibility in all cases.
+patch=1,EE,2023F5B0,extended,10000003
+
+[License Cheats\B License - All Gold]
 author=ashesaysgex
 description=Enable before starting the game to get reward cars.
 patch=1,EE,209C8FF4,bytes,
 91F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F90000
 91F90000
 
-[A License - All Gold]
+[License Cheats\A License - All Gold]
 author=ashesaysgex
 description=Enable before starting the game to get reward cars.
 patch=1,EE,209C9034,bytes,
 91F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F90000
 91F90000
 
-[IB License - All Gold]
+[License Cheats\IB License - All Gold]
 author=ashesaysgex
 description=Enable before starting the game to get reward cars.
 patch=1,EE,209C9074,bytes,
 91F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F90000
 91F90000
 
-[IA License - All Gold]
+[License Cheats\IA License - All Gold]
 author=ashesaysgex
 description=Enable before starting the game to get reward cars.
 patch=1,EE,209C90B4,bytes,
 91F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F90000
 91F90000
 
-[S License - All Gold]
+[License Cheats\S License - All Gold]
 author=ashesaysgex
 description=Enable before starting the game to get reward cars.
 patch=1,EE,209C90F4,bytes,
 91F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F9000091F90000
 91F90000
 
-[Coffee Breaks - All Gold]
+[License Cheats\Coffee Breaks - All Gold]
 author=ashesaysgex
 description=Does not grant the reward cars. Sorry :/
 patch=1,EE,209C9134,bytes,91F9000091F9000091F9000091F9000091F90000
 
-[AI Difficulty Increase\1st Position Pace Modifier]
+[Timer\Ultra Slow Timer]
 author=ashesaysgex
-patch=1,EE,21E72C5E,extended,00003F8C
-[AI Difficulty Increase\2nd Position Pace Modifier]
-author=ashesaysgex
-patch=1,EE,21E7719E,extended,00003F8C
-[AI Difficulty Increase\3rd Position Pace Modifier]
-author=ashesaysgex
-patch=1,EE,21E7B6DE,extended,00003F8C
-[AI Difficulty Increase\4th Position Pace Modifier]
-author=ashesaysgex
-patch=1,EE,21E7FC1E,extended,00003F8C
-[AI Difficulty Increase\5th Position Pace Modifier]
-author=ashesaysgex
-patch=1,EE,21E8415E,extended,00003F8C
-[AI Difficulty Increase\1st Position Downforce Modifier]
-author=ashesaysgex
-patch=1,EE,21E8BAB2,extended,00003F96
-[AI Difficulty Increase\2nd Position Downforce Modifier]
-author=ashesaysgex
-patch=1,EE,21E8BB92,extended,00003F96
-[AI Difficulty Increase\3rd Position Downforce Modifier]
-author=ashesaysgex
-patch=1,EE,21E8BD52,extended,00003F96
-[AI Difficulty Increase\4th Position Downforce Modifier]
-author=ashesaysgex
-patch=1,EE,21E8BE32,extended,00003F96
-[AI Difficulty Increase\5th Position Downforce Modifier]
-author=ashesaysgex
-patch=1,EE,21E8C02A,extended,00003F96
+description=
+patch=1,EE,2021AD04,extended,24420001
 
-[Disable AI (Press Select & Left To Activate, Press Select & Right To Disable)]
+[Timer\Ultra Fast Timer]
 author=ashesaysgex
-description=Ported from original patch by codejunkies
-patch=1,EE,D0681345,extended,0000FF7E
-patch=1,EE,20210A70,extended,24020000
-patch=1,EE,D0681345,extended,0000FFDE
-patch=1,EE,20210A70,extended,1440FFF9
+description=May be useful for timed endurance events.
+patch=1,EE,2021AD04,extended,24420FFF
 
-[Freeze Timer]
+[Timer\Freeze Timer]
 author=ashesaysgex
 description=Press L3 to stop, R3 to restart. Ported from original patch by codejunkies
 patch=1,EE,D0681344,extended,0000FFFD
